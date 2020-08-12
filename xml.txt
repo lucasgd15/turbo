@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "duffeck711"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>turbo corrida</name>
+
+  <description>
+      turbo
+  </description>
+
+  <author href="https://lucas" email="duffeck711@gmail.com">
+      Hardeep Shoker
+  </author>
+<turbo src="turbo.png" />
+
+</widget
